@@ -1,0 +1,6 @@
+Application is open
+Wait statement is every 3
+Login is completed successfully
+Wait statement is every 3
+Employee is added successfully
+Wait statement is every 3

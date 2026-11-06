@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30214","TC_004-Add Employee and Delete Employee","chromium","2026-11-04","broken","2026-11-04","","TC_004.spec.ts","",""
+"","14354","TC_002 Add Employee","chromium","2026-11-04","passed","2026-11-04","Regression Test Suite","Testsuit_regression.spec.ts","",""
+"","13037","@Smoke_TC_001 Login and Logout","chromium","2026-11-04","passed","2026-11-04","","TC_001.spec.ts","",""
+"","30151","TC_003-Add Employee and Edit Employee","chromium","2026-11-04","broken","2026-11-04","","TC_003.spec.ts","",""
+"","16782","@Regression_ TC_002 Add Employee","chromium","2026-11-04","passed","2026-11-04","","TC_002.spec.ts","",""
+"","10016","TC_001 Login and Logout","chromium","2026-11-04","passed","2026-11-04","Regression Test Suite","Testsuit_regression.spec.ts","",""
