@@ -13,5 +13,6 @@ import { Genral } from "../lib/Genral"
      await genral.waitstmt()
      await genral.logout()
      await genral.waitstmt()
+     console.log("Execution is completed")
  })   
 
